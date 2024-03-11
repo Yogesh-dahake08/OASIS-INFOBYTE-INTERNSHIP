@@ -1,5 +1,5 @@
 # OASIS INFOBYTE INTERNSHIP
-**During my internship I worked on Five fascinating projects:
+I worked on Five fascinating projects:
 
 Task 1- Email Spam Detection with Machine Learning: Built a Python-based spam detector using machine learning algorithms, allowing for accurate classification of emails as spam or non-spam.
 
